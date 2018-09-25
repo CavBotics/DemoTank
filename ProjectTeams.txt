@@ -1,0 +1,22 @@
+Project Teams:
+(if you need your name added to a team let Mr. Lipp know)
+
+Motion Sensor / Speaker:
+Charlie
+Liam
+
+Motor Control / Position Sensors:
+Frank
+Aiden
+Weston
+
+Wireless Kill Switch:
+EJ
+Thomas
+Josh
+Issac
+
+Structire / 3D Print:
+Jack
+Alex
+Thomas
