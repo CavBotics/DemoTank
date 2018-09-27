@@ -1,5 +1,5 @@
 # DemoTank
-CCES Robotics repository for demonstartion tank project
+CCES Robotics repository for demonstration tank project
 
 This is the GitHub repository for the new "DemoTank" project being undertaken by the CCES Robotics club!
 
