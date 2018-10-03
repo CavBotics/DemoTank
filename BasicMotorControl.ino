@@ -1,4 +1,5 @@
 
+//Establishes variable names for the control pins on the motor sheild
 #define in1 8
 #define enA 9
 #define enB 10
